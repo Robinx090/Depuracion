@@ -1,9 +1,9 @@
 ﻿int a;
 int b;
-int multi;
+int suma;
 
 a = 82;
 b = 944;
-multi = a * b;
+suma = a + b;
 
-Console.WriteLine("La multiplicación de " + a + " * " + b + " es = " + multi);
+Console.WriteLine("La suma de " + a + " + " + b + " es = " + suma);
